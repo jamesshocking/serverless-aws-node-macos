@@ -52,7 +52,7 @@ serverless
 cd <project name>
 npm install
 npx license mit > LICENSE
-npm gitignore node
+npx gitignore node
 npm covgen <email address> (optional step that creates a document)
 npm init -y
 ```
